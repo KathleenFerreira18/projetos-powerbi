@@ -1,6 +1,6 @@
 # 📊 Projetos Power BI - Portfólio de Estudos
 
-Este repositório reúne os projetos desenvolvidos ao longo de um curso prático de Power BI, onde foram propostos desafios reais com foco em análise de dados e construção de dashboards interativos. Cada projeto foi criado com base em uma situação empresarial diferente, simulando cenários reais do mercado.
+Este repositório reúne os projetos desenvolvidos ao longo de um curso prático de Power BI feito através do SIMPLIFICA TREINAMENTOS, onde foram propostos desafios reais com foco em análise de dados e construção de dashboards interativos. Cada projeto foi criado com base em uma situação empresarial diferente, simulando cenários reais do mercado.
 
 ---
 
